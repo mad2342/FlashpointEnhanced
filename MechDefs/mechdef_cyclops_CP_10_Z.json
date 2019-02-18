@@ -4,8 +4,10 @@
             "unit_mech",
             "unit_assault",
             "unit_indirectFire",
-            "unit_release",
-            "unit_dlc"
+			"unit_release",
+            "unit_lance_support",
+            "unit_role_sniper",
+			"unit_dlc"
         ],
         "tagSetSourceFile":""
     },
