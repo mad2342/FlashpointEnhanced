@@ -1,15 +1,18 @@
 {
-    "Name": "Enhancements and additions for BTG Flashpoint Expansion",
-    "Version": "0.0.1",
-	"Author": "Mad",
+    "Name": "FlashpointEnhanced",
     "Enabled": true,
-	"Manifest": [
-		{ "Type": "ChassisDef", "Path": "ChassisDefs\\" },
-		{ "Type": "MechDef", "Path": "MechDefs\\" },
-		{ "Type": "ItemCollectionDef", "Path": "ItemCollectionDefs\\" },
-		{
-			"Type": "AdvancedJSONMerge",
-			"Path": "StarSystemDefs"
-		}
+    
+    "Version": "1.8.1",
+    "Description": "Enhancements and additions for BTG Flashpoint Expansion.",
+    "Author": "Mad",
+
+    "Manifest": [
+        { "Type": "ChassisDef", "Path": "ChassisDefs\\" },
+        { "Type": "MechDef", "Path": "MechDefs\\" },
+        { "Type": "ItemCollectionDef", "Path": "ItemCollectionDefs\\" },
+        {
+            "Type": "AdvancedJSONMerge",
+            "Path": "StarSystemDefs"
+        }
     ]
 }

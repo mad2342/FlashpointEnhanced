@@ -15,7 +15,7 @@
         "Rarity" : 0,
         "Purchasable" : false,
         "Manufacturer" : "",
-        "Model" : "_MECH_SHELL",
+        "Model" : null,
         "UIName" : "BIG STEEL CLAW",
         "Id" : "mechdef_crab__fp_gladiator_BSC-27",
         "Name" : "BIG STEEL CLAW",
