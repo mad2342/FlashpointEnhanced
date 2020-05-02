@@ -1,14 +1,14 @@
 {
     "Description": {
         "Cost": 14700000,
-        "Rarity": 5,
-        "Purchasable": false,
+        "Rarity": 2,
+        "Purchasable": true,
         "Manufacturer": "",
         "Model": "",
         "UIName": "Archer",
-        "Id": "chassisdef_archer_ARC-T_fp_morganKell",
+        "Id": "chassisdef_archer_ARC-2Rb_fp_morganKell",
         "Name": "Archer",
-        "Details": "Named for Morgan Kell's pirate lover, MechWarrior Online's Archer Hero 'Mech plays to the fan rumors that Kell's Phantom Mech ability was actually just LosTech he recovered from the Periphery before his return in 3006. Identical to the standard ARC-2R in most respects, the addition on an Endo Steel frame frees up the weight for a Guardian ECM suite and two extra heat sinks, all of which are upgraded to double heat sinks boosting the Tempest's endurance.",
+        "Details": "Equipped with Star League technology, the 2Rb variant of the Archer was built for SLDF Royal units starting in 2752. Built on an Endo Steel internal structure, this variant dropped one of the medium lasers and one ton of ammunition to finally improve its heat management utilizing double strength heat sinks.",
         "Icon": "uixTxrIcon_archer"
     },
     "MovementCapDefID": "movedef_archer_ARC-2R",
@@ -17,7 +17,7 @@
     "PrefabIdentifier": "chrPrfMech_archerBase-001",
     "PrefabBase": "archer",
     "Tonnage": 70,
-    "InitialTonnage": 25,
+    "InitialTonnage": 27,
     "weightClass": "HEAVY",
     "Heatsinks": 30,
     "MaxJumpjets": 4,
@@ -198,12 +198,12 @@
             "z": 1
         }
     ],
-    "VariantName": "ARC-T",
+    "VariantName": "ARC-2RB",
     "ChassisTags": {
         "items": [],
         "tagSetSourceFile": ""
     },
-    "YangsThoughts": "Named for Morgan Kell's pirate lover, MechWarrior Online's Archer Hero 'Mech plays to the fan rumors that Kell's Phantom Mech ability was actually just LosTech he recovered from the Periphery before his return in 3006. Identical to the standard ARC-2R in most respects, the addition on an Endo Steel frame frees up the weight for a Guardian ECM suite and two extra heat sinks, all of which are upgraded to double heat sinks boosting the Tempest's endurance.",
+    "YangsThoughts": "Equipped with Star League technology, the 2Rb variant of the Archer was built for SLDF Royal units starting in 2752. Built on an Endo Steel internal structure, this variant dropped one of the medium lasers and one ton of ammunition to finally improve its heat management utilizing double strength heat sinks.",
     "StockRole": "Missile Boat",
     "FixedEquipment" : [
         {

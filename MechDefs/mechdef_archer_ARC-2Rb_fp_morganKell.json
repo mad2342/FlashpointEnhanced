@@ -14,18 +14,18 @@
     ],
     "tagSetSourceFile": ""
   },
-  "ChassisID": "chassisdef_archer_ARC-T_fp_morganKell",
+  "ChassisID": "chassisdef_archer_ARC-2Rb_fp_morganKell",
   "HeraldryID": null,
   "Description": {
     "Cost": 11720000,
     "Rarity": 5,
-    "Purchasable": false,
+    "Purchasable": true,
     "Manufacturer": null,
     "Model": null,
-    "UIName": "TEMPEST",
-    "Id": "mechdef_archer_ARC-T_fp_morganKell",
-    "Name": "TEMPEST",
-    "Details": "Named for Morgan Kell's pirate lover, MechWarrior Online's Archer Hero 'Mech plays to the fan rumors that Kell's Phantom Mech ability was actually just LosTech he recovered from the Periphery before his return in 3006. Identical to the standard ARC-2R in most respects, the addition on an Endo Steel frame frees up the weight for a Guardian ECM suite and two extra heat sinks, all of which are upgraded to double heat sinks boosting the Tempest's endurance.",
+    "UIName": "Archer ARC-2Rb",
+    "Id": "mechdef_archer_ARC-2Rb_fp_morganKell",
+    "Name": "Archer",
+    "Details": "Equipped with Star League technology, the 2Rb variant of the Archer was built for SLDF Royal units starting in 2752. Built on an Endo Steel internal structure, this variant dropped one of the medium lasers and one ton of ammunition to finally improve its heat management utilizing double strength heat sinks.",
     "Icon": "uixTxrIcon_archer"
   },
   "simGameMechPartCost": 1172000,
@@ -117,17 +117,6 @@
       "hasPrefabName": false
     },
     {
-      "MountedLocation": "CenterTorso",
-      "ComponentDefID": "Weapon_Laser_MediumLaser_0-STOCK",
-      "SimGameUID": null,
-      "ComponentDefType": "Weapon",
-      "HardpointSlot": 1,
-      "GUID": null,
-      "DamageLevel": "Functional",
-      "prefabName": null,
-      "hasPrefabName": false
-    },
-    {
       "MountedLocation": "LeftArm",
       "ComponentDefID": "Weapon_Laser_MediumLaser_0-STOCK",
       "SimGameUID": null,
@@ -184,17 +173,6 @@
     },
     {
       "MountedLocation": "LeftTorso",
-      "ComponentDefID": "Ammo_AmmunitionBox_Generic_LRM",
-      "SimGameUID": null,
-      "ComponentDefType": "AmmunitionBox",
-      "HardpointSlot": -1,
-      "GUID": null,
-      "DamageLevel": "Functional",
-      "prefabName": null,
-      "hasPrefabName": false
-    },
-    {
-      "MountedLocation": "RightTorso",
       "ComponentDefID": "Ammo_AmmunitionBox_Generic_LRM",
       "SimGameUID": null,
       "ComponentDefType": "AmmunitionBox",
