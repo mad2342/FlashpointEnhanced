@@ -107,7 +107,7 @@
   "inventory": [
     {
       "MountedLocation": "CenterTorso",
-      "ComponentDefID": "Weapon_Laser_MediumLaser_0-STOCK",
+      "ComponentDefID": "Weapon_Laser_MediumLaser_1-Intek",
       "SimGameUID": null,
       "ComponentDefType": "Weapon",
       "HardpointSlot": 0,
@@ -118,7 +118,7 @@
     },
     {
       "MountedLocation": "LeftArm",
-      "ComponentDefID": "Weapon_Laser_MediumLaser_0-STOCK",
+      "ComponentDefID": "Weapon_Laser_MediumLaser_2-Magna",
       "SimGameUID": null,
       "ComponentDefType": "Weapon",
       "HardpointSlot": 0,
@@ -129,7 +129,7 @@
     },
     {
       "MountedLocation": "RightArm",
-      "ComponentDefID": "Weapon_Laser_MediumLaser_0-STOCK",
+      "ComponentDefID": "Weapon_Laser_MediumLaser_2-Magna",
       "SimGameUID": null,
       "ComponentDefType": "Weapon",
       "HardpointSlot": 0,
@@ -140,7 +140,7 @@
     },
     {
       "MountedLocation": "RightTorso",
-      "ComponentDefID": "Weapon_LRM_LRM20_0-STOCK",
+      "ComponentDefID": "Weapon_LRM_LRM20_3-Zeus",
       "SimGameUID": null,
       "ComponentDefType": "Weapon",
       "HardpointSlot": 0,
@@ -151,7 +151,7 @@
     },
     {
       "MountedLocation": "LeftTorso",
-      "ComponentDefID": "Weapon_LRM_LRM20_0-STOCK",
+      "ComponentDefID": "Weapon_LRM_LRM20_3-Zeus",
       "SimGameUID": null,
       "ComponentDefType": "Weapon",
       "HardpointSlot": 0,

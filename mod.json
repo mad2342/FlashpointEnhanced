@@ -7,7 +7,7 @@
     "Author": "Mad",
 
     "Manifest": [
-        { "Type": "ContractOverride", "Path": "ContractOverrides" },
+        { "Type": "ContractOverride", "Path": "ContractOverrides\\" },
         { "Type": "ChassisDef", "Path": "ChassisDefs\\" },
         { "Type": "MechDef", "Path": "MechDefs\\" },
         { "Type": "ItemCollectionDef", "Path": "ItemCollectionDefs\\" },

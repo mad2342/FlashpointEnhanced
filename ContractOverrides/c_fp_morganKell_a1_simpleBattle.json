@@ -345,7 +345,7 @@
                         "customUnitName": null,
                         "customHeraldryDefId": "heraldrydef_KellHounds",
                         "unitType": "Mech",
-                        "unitDefId": "mechdef_archer_ARC-2Rb_fp_morganKell,
+                        "unitDefId": "mechdef_archer_ARC-2Rb_fp_morganKell",
                         "unitTagSet": {
                             "items": [],
                             "tagSetSourceFile": "tags/UnitTags"
